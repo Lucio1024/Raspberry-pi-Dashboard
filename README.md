@@ -1,5 +1,5 @@
 # Raspberry pi Dashboard
-This tutorial will aid you into setting up a Dahsboard using the Raspberry pi as a server.
+This tutorial will aid you into setting up a Dashboard using the Raspberry pi as a server.
 
 Hardware required:
 
@@ -8,6 +8,6 @@ Hardware required:
 Optional Hardware:
 
     1.  smart plug
-    2.  Amazon Echo dot/Elexa
+    2.  Amazon Echo dot/Alexa
 
 
